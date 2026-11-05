@@ -25,6 +25,10 @@ Future Interns – UI/UX Design Internship
 - Present beauty and skincare services.
 - Provide a clean and responsive design.
 
+## Project Preview
+
+![Glow Beauty Studio](screenshots/Glow_Beauty_Website.png)
+
 ## Project Status
 
 Completed UI/UX Design Project.
