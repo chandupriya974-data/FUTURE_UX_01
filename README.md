@@ -32,3 +32,8 @@ Completed UI/UX Design Project.
 ## Copyright
 
 © 2026 Glow Beauty Studio. All Rights Reserved.
+
+## Figma Prototype
+
+[View Glow Beauty Studio Prototype]
+https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=0-1&t=27f5PUtj5r7zcpWN-1
