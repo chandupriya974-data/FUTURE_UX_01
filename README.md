@@ -40,4 +40,9 @@ Completed UI/UX Design Project.
 ## Figma Prototype
 
 [View Glow Beauty Studio Prototype]
-https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=0-1&t=27f5PUtj5r7zcpWN-1
+https://www.figma.com/design/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=0-1&t=27f5PUtj5r7zcpWN-1
+
+## Live Prototype
+
+[View Glow Beauty Studio Prototype]
+https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=1-2&p=f&t=27f5PUtj5r7zcpWN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
