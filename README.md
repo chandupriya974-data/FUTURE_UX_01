@@ -50,10 +50,11 @@ https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=1-2&p=f&t=27
 ## Our Beauty Services
 
 ### Hair Care
-![Hair Care](screenshots/engin-akyurt-g-m8EDc4X6Q-unsplash.jpg)
+![Hair Care](screenshots/quentin-mahe-mAW3jUP6G6E-unsplash.jpg)
 
 ### Skin Care
 ![Skin Care](screenshots/look-studio-TQSPgNqeCo8-unsplash.jpg)
 
 ### Facial Spa
-![Facial Spa](screenshots/quentin-mahe-mAW3jUP6G6E-unsplash.jpg)
+![Facial Spa](screenshots/engin-akyurt-g-m8EDc4X6Q-unsplash.jpg)
+
