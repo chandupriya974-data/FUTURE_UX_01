@@ -46,3 +46,14 @@ https://www.figma.com/design/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=0-1&t=27f5P
 
 [View Glow Beauty Studio Prototype]
 https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=1-2&p=f&t=27f5PUtj5r7zcpWN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+
+## Our Beauty Services
+
+### Hair Care
+![Hair Care](screenshots/engin-akyut-g-m8EDc4X6Q-unsplash.jpg)
+
+### Skin Care
+![Skin Care](screenshots/look-studio-TQSPgNqeCo8-unsplash.jpg)
+
+### Facial Spa
+![Facial Spa](screenshots/quentin-mahe-mAW3jUP6G6E-unsplash.jpg)
