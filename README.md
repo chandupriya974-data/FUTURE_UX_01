@@ -8,6 +8,13 @@ Glow Beauty Studio is a beauty and skincare website redesign focused on creating
 
 UI/UX Design
 
+## Project Goals
+
+- Create an attractive homepage.
+- Improve user navigation.
+- Present beauty and skincare services.
+- Provide a clean and responsive design.
+
 ## Internship
 
 Future Interns – UI/UX Design Internship
@@ -18,12 +25,16 @@ Future Interns – UI/UX Design Internship
 - GitHub
 - Unsplash
 
-## Project Goals
+  ## Our Beauty Services
 
-- Create an attractive homepage.
-- Improve user navigation.
-- Present beauty and skincare services.
-- Provide a clean and responsive design.
+### Hair Care
+![Hair Care](screenshots/quentin-mahe-mAW3jUP6G6E-unsplash.jpg)
+
+### Skin Care
+![Skin Care](screenshots/look-studio-TQSPgNqeCo8-unsplash.jpg)
+
+### Facial Spa
+![Facial Spa](screenshots/engin-akyurt-g-m8EDc4X6Q-unsplash.jpg)
 
 ## Project Preview
 
@@ -32,10 +43,6 @@ Future Interns – UI/UX Design Internship
 ## Project Status
 
 Completed UI/UX Design Project.
-
-## Copyright
-
-© 2026 Glow Beauty Studio. All Rights Reserved.
 
 ## Figma Prototype
 
@@ -47,14 +54,6 @@ https://www.figma.com/design/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=0-1&t=27f5P
 [View Glow Beauty Studio Prototype]
 https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=1-2&p=f&t=27f5PUtj5r7zcpWN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
 
-## Our Beauty Services
+## Copyright
 
-### Hair Care
-![Hair Care](screenshots/quentin-mahe-mAW3jUP6G6E-unsplash.jpg)
-
-### Skin Care
-![Skin Care](screenshots/look-studio-TQSPgNqeCo8-unsplash.jpg)
-
-### Facial Spa
-![Facial Spa](screenshots/engin-akyurt-g-m8EDc4X6Q-unsplash.jpg)
-
+© 2026 Glow Beauty Studio. All Rights Reserved.
